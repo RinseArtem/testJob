@@ -1,0 +1,10 @@
+.container-fluid {
+    margin-top: 15px;
+}
+th.no-padding {
+    padding: 0;
+}
+.add-btn {
+    font-size: 30px;
+    color: green;
+}
